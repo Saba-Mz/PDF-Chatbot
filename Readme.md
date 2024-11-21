@@ -48,7 +48,7 @@ This project allows you to upload multiple PDF documents and interact with them 
 3. Add your API key in a .env file
    `OPENAI_API_KEY=your_openai_api_key`
 4. Run the Streamlit application:
-   `streamlit run app.py`
+   `streamlit run new_app.py`
 
 
 
